@@ -1,0 +1,8 @@
+streamlit>=1.30.0
+numpy>=1.24.0
+pillow>=10.0.0
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+IMDbPY>=2022.7.9
+lxml>=5.0.0
+pyhton-dotenv
